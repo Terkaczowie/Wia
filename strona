@@ -9,7 +9,7 @@
 	</head>
 	<body>
 		<header>
-		<h1></h1>
+		<h1 style="text-align:center;"></h1>
 		<center><p style="color:blue">paragraf</p></center>
 		</header>
 		<hr>
